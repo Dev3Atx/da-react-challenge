@@ -33,7 +33,7 @@ function App() {
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>"In my feelings more than Drake"</td>
+                  <td>"In my feelings more than Drake!"</td>
                   <td>I Forgot That You Existed</td>
                   <td>Lover</td>
                   <td>Edit</td>
